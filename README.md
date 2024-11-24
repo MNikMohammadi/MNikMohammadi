@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Mohammad Nikmohammadi, a backend developer with expertise in C# and .NET <br>
+I'm Mohammad Nik Mohammadi, a backend developer with expertise in C# and .NET <br>
 Passionate about building scalable, secure systems.
 
 ## 🌐 Socials:
